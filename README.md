@@ -1,6 +1,9 @@
 # CO2-Tracker
 
 This is my capstone project for my undergraduate degree at Westminster College.
+You can download the final project zip file, open it with xCode on a mac and try it out!
+very limited functionality like a local database for days of burned CO2.
+
 
 # Report
 
